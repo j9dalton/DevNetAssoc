@@ -1,0 +1,20 @@
+{"car": 
+    {
+        "make": "Ford",
+        "model": "Mustang Mach-e",
+        "year": 2021,
+        "color": {
+            "red": 0,
+            "green": 0,
+            "blue": 0
+        },
+        "towing-capable": true,
+        "licence-tag": "SLK4675",
+        "wheel": [
+            {"where": "left-front", "psi":39.0},
+            {"where": "right-front", "psi":39.0},
+            {"where": "left-rear", "psi":39.0},
+            {"where": "right-rear", "psi":39.0}
+        ]
+    }
+}

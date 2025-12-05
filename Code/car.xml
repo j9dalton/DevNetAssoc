@@ -1,0 +1,18 @@
+<car>
+    <make>Ford</make>
+    <model>Mustang Mach-e</model>
+    <year value="2021" />
+    <color>
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+    </color>
+    <towing-capable value="true" />
+    <license-tag value="SLK4675" />
+    <wheels>
+        <wheel where="left-front" psi="39.0" />
+        <wheel where="right-front" psi="39.0" />
+        <wheel where="left-rear" psi="39.0" />
+        <wheel where="right-rear" psi="39.0" />
+    </wheels>
+</car>
